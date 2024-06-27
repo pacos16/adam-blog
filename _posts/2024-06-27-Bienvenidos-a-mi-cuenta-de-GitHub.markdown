@@ -7,4 +7,9 @@ img: post-1.jpg # Add image post (optional)
 tags: [Blog, Mountains]
 author: Paco Signes # Add name author (optional)
 ---
+
+Hola este es mi blog
+
 [Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
+
+Adiós
